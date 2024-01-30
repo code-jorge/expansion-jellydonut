@@ -1,4 +1,4 @@
-## Expansion Jellydonut
+## Expansion Jellydonut (Netlify)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ea0f2d67-af11-44b1-a62b-c670106fbfff/deploy-status)](https://app.netlify.com/sites/jelly-donut/deploys)
 
